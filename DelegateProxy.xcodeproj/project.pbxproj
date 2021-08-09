@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0464680226C1015800CFE1D7 /* DelegateProxy+Combine.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0464680126C1015800CFE1D7 /* DelegateProxy+Combine.swift */; };
 		2AB10F0B1DA185EE004C3CC1 /* DPDelegateProxy.h in Headers */ = {isa = PBXBuildFile; fileRef = 2A18B33D1D5E598300AC312F /* DPDelegateProxy.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		2AB10F0C1DA185EE004C3CC1 /* DPRuntime.h in Headers */ = {isa = PBXBuildFile; fileRef = 2A18B33F1D5E598300AC312F /* DPRuntime.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		2AB10F0D1DA185EE004C3CC1 /* DelegateProxy.h in Headers */ = {isa = PBXBuildFile; fileRef = 2A18B33B1D5E598300AC312F /* DelegateProxy.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0464680126C1015800CFE1D7 /* DelegateProxy+Combine.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "DelegateProxy+Combine.swift"; sourceTree = "<group>"; };
 		2A18B3391D5E598300AC312F /* Arguments.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Arguments.swift; sourceTree = "<group>"; };
 		2A18B33B1D5E598300AC312F /* DelegateProxy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DelegateProxy.h; sourceTree = "<group>"; };
 		2A18B33C1D5E598300AC312F /* DelegateProxy.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DelegateProxy.swift; sourceTree = "<group>"; };
@@ -98,6 +100,7 @@
 				2A18B3391D5E598300AC312F /* Arguments.swift */,
 				2A18B3421D5E598300AC312F /* Receivable.swift */,
 				2A18B3431D5E598300AC312F /* Receiver.swift */,
+				0464680126C1015800CFE1D7 /* DelegateProxy+Combine.swift */,
 				2A18B33D1D5E598300AC312F /* DPDelegateProxy.h */,
 				2A18B33E1D5E598300AC312F /* DPDelegateProxy.m */,
 				2A18B33F1D5E598300AC312F /* DPRuntime.h */,
@@ -237,6 +240,7 @@
 				2AB10F0E1DA18601004C3CC1 /* DelegateProxy.swift in Sources */,
 				2AB10F0F1DA18601004C3CC1 /* DelegateProxyType.swift in Sources */,
 				2AB10F101DA18601004C3CC1 /* Arguments.swift in Sources */,
+				0464680226C1015800CFE1D7 /* DelegateProxy+Combine.swift in Sources */,
 				2AB10F111DA18601004C3CC1 /* Receivable.swift in Sources */,
 				2AB10F121DA18601004C3CC1 /* Receiver.swift in Sources */,
 				2AB10F131DA18601004C3CC1 /* DPDelegateProxy.m in Sources */,
